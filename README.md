@@ -1,2 +1,2 @@
 # Timezone
-A plugin that shows the users the time of an event according to the timezone of their choice
+Users can choose a timezone. Once they choose a timezone, the timing of all the events in the page switches to that timezone. It also takes the day light saving into account.
